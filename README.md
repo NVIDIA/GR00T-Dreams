@@ -15,6 +15,8 @@ We provide the full pipeline for DreamGen, as Cosmos-Predict2 as the video world
 
 Install the environment for `cosmos-predict2` following [cosmos-predict2-setup](https://github.com/nvidia-cosmos/cosmos-predict2/blob/main/documentations/post-training_video2world_gr00t.md#prerequisites).
 
+See the high-level workflow in the [Reference Architecture](reference_architecture/reference_architecture.md).
+
 ## 1. Fine-tuning video world models
 See [cosmos-predict2/documentations/training_gr00t.md](https://github.com/nvidia-cosmos/cosmos-predict2/blob/main/documentations/post-training_video2world_gr00t.md#video2world-post-training-for-dreamgen-bench) for details.
 
